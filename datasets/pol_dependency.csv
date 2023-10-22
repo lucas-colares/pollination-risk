@@ -1,0 +1,72 @@
+;crop;simple_name;spp;pol_depend;origin
+1;Abacate;Abacate;Persea americana;great;Exotica
+2;Abacaxi.;Abacaxi;Ananas comosus;no increase;Nativa
+3;Acai;Acai;Euterpe oleracea;NA;Nativa
+4;Alfafa.fenada;Alfafa;Medicago sativa;NA;NA
+5;Algodao.arboreo..em.caroco.;Algodao_arboreo;Gossypium hirsutum;NA;NA
+6;Algodao.herbaceo..em.caroco.;Algodao_herbaceo;Gossypium hirsutum;NA;NA
+7;Alho;Alho;Allium sativum;no increase;Exotica
+8;Amendoim..em.casca.;Amendoim;Arachis hypogaea;NA;NA
+9;Arroz..em.casca.;Arroz;Oryza spp.;no increase;Exotica
+10;Aveia..em.grao.;Aveia;Avena sativa;no increase;Exotica
+11;Azeitona;Azeitona;Olea europaea;no increase;Exotica
+12;Banana..cacho.;Banana;Musa spp.;no increase;Exotica
+13;Batata.doce;Batata_doce;Ipomoea batatas;no increase;Exotica
+14;Batata.inglesa;Batata;Solanum tuberosum;no increase;Exotica
+15;Borracha..latex.coagulado.;Borracha_coag;Hevea brasiliensis;NA;NA
+16;Borracha..latex.liquido.;Borracha_latex;Hevea brasiliensis;NA;NA
+17;Cacau..em.amendoa.;Cacau;Theobroma cacao;essential;Nativa
+18;Cafe..em.grao..Total;Cafe_total;Coffea spp.;modest;Exotica
+19;Cafe..em.grao..Arabica;Cafe_arabica;Coffea arabica;modest;Exotica
+20;Cafe..em.grao..Canephora;Cafe_canephora;Coffea canephora;modest;Exotica
+21;Caju;Caju;Anacardium occidentale;essential;Nativa
+22;Cana.de.acucar;Cana_acucar;Saccharum officinarum;no increase;Nativa
+23;Cana.para.forragem;Cana_forragem;Saccharum officinarum;no increase;Nativa
+24;Caqui;Caqui;Diospyros kaki;little;Exotica
+25;Castanha.de.caju;Castanha_caju;Anacardium occidentale;essential;Nativa
+26;Cebola;Cabola;Allium cepa;great;Exotica
+27;Centeio..em.grao.;Centeio;Secale cereale;no increase;Exotica
+28;Cevada..em.grao.;Cevada;Hordeum vulgare;no increase;Exotica
+29;Cha.da.india..folha.verde.;Cha_da_india;Camellia sinensis;no increase;Exotica
+30;Coco.da.baia.;Coco;Cocos nucifera;modest;Exotica
+31;Dende..cacho.de.coco.;Dende;Elaeis guineensis;little;Exotica
+32;Erva.mate..folha.verde.;Erva_mate;Ilex paraguariensis;great;Nativa
+33;Ervilha..em.grao.;Ervilha;Pisum sativum;NA;NA
+34;Fava..em.grao.;Fava;Vicia faba;modest;Exotica
+35;Feijao..em.grao.;Feijao;Phaseolus vulgaris;little;Nativa
+36;Figo;Figo;Ficus carica;modest;Exotica
+37;Fumo..em.folha.;Fumo;Nicotiana tabacum;NA;NA
+38;Girassol..em.grao.;Girassol;Helianthus annuus;great;Exotica
+39;Goiaba;Goiaba;Psidium guajava;great;Nativa
+40;Guarana..semente.;Guarana;Paullinia cupana;great;Nativa
+41;Juta..fibra.;Juta;Corchorus capsularis;NA;NA
+42;Laranja;Laranja;Citrus sinensis;modest;Exotica
+43;Limao;Limao;Citrus limonum;little;Exotica
+44;Linho..semente.;Linho;Linum usitatissimum;NA;NA
+45;Maca;Maca;Malus domestica;essential;Exotica
+46;Malva..fibra.;Malva;Malva spp.;NA;NA
+47;Mamao;Mamao;Carica papaya;little;Nativa
+48;Mamona..baga.;Mamona;Ricinus communis;great;Exotica
+49;Mandioca;Mandioca;Manihot esculenta;no increase;Nativa
+50;Manga;Manga;Mangifera indica;no increase;Exotica
+51;Maracuja;Maracuja;Passiflora edulis;essential;Nativa
+52;Marmelo;Marmelo;Cydonia oblonga;NA;Exotica
+53;Melancia;Melancia;Citrullus lanatus;essential;Exotica
+54;Melao;Melao;Cucumis melo;essential;Exotica
+55;Milho..em.grao.;Milho;Zea mays;no increase;Exotica
+56;Noz..fruto.seco.;Noz;Juglans regia;NA;NA
+57;Palmito;Palmito;Euterpe edulis;great;Nativa
+58;Pera;Pera;Pyrus pyrifolia;essential;Exotica
+59;Pessego;Pessego;Prunus persica;great;Exotica
+60;Pimenta.do.reino;Pimenta;Piper nigrum;no increase;Exotica
+61;Rami..fibra.;Rami;Boehmeria nivea;NA;NA
+62;Sisal.ou.agave..fibra.;Sisal;Agave sisalana;NA;NA
+63;Soja..em.grao.;Soja;Glycine max;modest;Exotica
+64;Sorgo..em.grao.;Sorgo;Sorghum bicolor;NA;Exotica
+65;Tangerina;Tangerina;Citrus reticulata;essential;Exotica
+66;Tomate;Tomate;Solanum lycopersicum;little;Exotica
+67;Trigo..em.grao.;Trigo;Triticum spp.;no increase;Exotica
+68;Triticale..em.grao.;Triticale;Triticosecale rimpaui;no increase;Exotica
+69;Tungue..fruto.seco.;Tungue;Vernicia fordii;NA;NA
+70;Urucum..semente.;Urucum;Bixa orellana;modest;Nativa
+71;Uva;Uva;Vitis labrusca;little;Exotica
