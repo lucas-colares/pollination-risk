@@ -22,7 +22,6 @@ This research is especially significant for understanding how the expansion of m
 Below is an overview of the repository’s folder structure:
 
 ```
-.
 ├── datasets
 │   ├── all_spp.csv                # Lists all crop species with their taxonomic and identifier information.
 │   ├── category.csv          # Defines categorical groupings (e.g., native vs. exotic) for the species.
@@ -32,6 +31,9 @@ Below is an overview of the repository’s folder structure:
 │   └── polinizadores.csv      # Lists the pollinator species data used in the study.
 │
 ├── scripts
+│   └── 1. analysis.R      #Main R script for data processing, statistical analysis, and visualization.
+│
+├── raw_datasets
 │   └── PAM - 2021           # Contains data from the Brazilian Agricultural Production (PAM) survey for 2021, detailing crop production statistics at the municipal level.
 │       ├── area_colhida.csv    # Harvested area (in hectares) for different crops across Brazilian municipalities.
 │       ├── area_plantada.csv    # Planted area (in hectares) for various crops in 2021.
@@ -46,16 +48,14 @@ Below is an overview of the repository’s folder structure:
 
 ---
 
-## How to Reproduce the Analysis
+## Getting Started  
 
-1. **Data Preparation:**  
-   The raw datasets in the `data/raw/` folder need to be preprocessed using the scripts found in `R/scripts/`. Running these scripts will generate cleaned datasets that are saved in `data/processed/`.
-
-2. **Analysis Execution:**  
-   Open the R Markdown files in the `R/analysis/` folder to follow the step-by-step analysis. These documents explain the statistical methods, models, and visualizations used in the paper.
-
-3. **Figures:**  
-   All visual outputs (e.g., maps, charts) will be automatically generated and stored in the `figures/` folder when you run the analysis scripts.
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/lucas-colares/pollination-risk.git  
+   ```  
+2. Open `PolEco.Rproj` in RStudio.  
+3. Use the provided `1. analysis.R` script to explore and analyze the data.  
 
 ---
 
@@ -63,10 +63,10 @@ Below is an overview of the repository’s folder structure:
 
 If you use or modify any part of this repository in your work, please cite the original paper:
 
-Oliveira, W., Colares, L.F., Porto, R.G., Viana, B.F., Tabarelli, M., & Lopes, A.V. (2024). *Food plants in Brazil: origin, economic value of pollination and pollinator shortage risk*. Science of The Total Environment, 169147. doi:10.1016/j.scitotenv.2023.169147
+Oliveira, W., Colares, L.F., Porto, R.G., Viana, B.F., Tabarelli, M., & Lopes, A.V. (2024). *Food plants in Brazil: origin, economic value of pollination and pollinator shortage risk*. Science of The Total Environment, 169147. [doi:10.1016/j.scitotenv.2023.169147](https://doi.org/10.1016/j.scitotenv.2023.169147)
 
 ---
 
 ## License
 
-This repository is released under the MIT license.
+This repository is released under the MIT license. You are free to use, modify, and distribute the code with proper attribution.
