@@ -1,5 +1,5 @@
 ![alt text](https://i.imgur.com/fYESZw3.png)
-# Food Plants in Brazil: Origin, Economic Value of Pollination and Pollinator Shortage Risk
+# Food Plants in Brazil: Origin, Economic Value of Pollination and Pollinator Shortage Risk 🐝🦋🦇🐦
 
 This repository contains the data and R code used in the paper:
 
